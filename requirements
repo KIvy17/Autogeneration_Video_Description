@@ -1,0 +1,15 @@
+accelerate
+transformers
+torch torchaudio
+seaborn-image
+langdetect
+deep-translator
+opencv-python-headless
+numpy
+pandas
+moviepy
+matplotlib
+scikit-learn
+
+
+
